@@ -62,7 +62,7 @@ Everything presented is strictly for **visual demonstration**.
 
 ## 📥 Download (Official Links)
 
-> Note: These links belong to the **original Get-Licensed application**, not this portfolio.
+> Note: These links belong to the **original Get-Driving application**, not this portfolio.
 
 **Google Play:**  
 [View it on Google Play](https://play.google.com/store/apps/details?id=com.getlicensed.getdriving&hl=en)
